@@ -1,0 +1,19 @@
+.set-p{
+  overflow: scroll;
+  width: 300px;
+  height: 95px;
+  padding: 10px;
+  background-color: #0EF5E3;
+}
+
+.satu{
+  border: 10px dotted red;
+}
+
+.dua{
+  border: 5px solid green;
+}
+
+.tiga{
+  border:20px dashed blue;
+}
